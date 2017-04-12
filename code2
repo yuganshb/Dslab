@@ -1,0 +1,8 @@
+n:=10;
+sum:=1;
+if(sum=0)then
+print(sum);
+else
+print(sum+10);
+fi;
+
